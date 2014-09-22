@@ -7,6 +7,7 @@ Problem 2 - By considering the terms in the Fibonacci sequence whose values do n
 sum of the even-valued terms.
 Problem 16 - What is the sum of the digits of the number 2 to the power of 1000?
 Problem 20 - Find the sum of digits in 100!
+Problem 22 - Names scores
 
 Languages used so far:
 JavaScript
